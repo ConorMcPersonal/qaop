@@ -38,6 +38,7 @@ gext_table = {
     "trashman":".tap",
     "vulcan":".tap",
     "whb":".tap",
+    "toasthost":".tap",
 }
 
 function gext(fn)
